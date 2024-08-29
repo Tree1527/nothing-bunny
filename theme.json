@@ -18,17 +18,20 @@
     "spec": 2,
     "semanticColors": {
         "BACKGROUND_MENTIONED": ["#00000000"],
+        "BACKGROUND_ACCENT": ["#d71921"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#212123"],
         "TEXT_MUTED": ["#a9a9ab"],
         "TEXT_PRIMARY": ["#fcfcfc"],
         "TEXT_NORMAL": ["#fcfcfc"],
         "INTERACTIVE_ACTIVE": ["#d71921"],
+        "INTERACTIVE_NORMAL": ["#d71921"],
         "BG_BRAND": ["#d71921"]
     },
     "rawColors": {
         "PLUM_6": "#d71921",
         "PLUM_13": "#111113",
         "PLUM_15": "#111113",
-        "PLUM_16": "#d71921",
+        "PLUM_16": "#212123",
         "PLUM_17": "#0d0d0f",
         "PLUM_18": "#0d0d0f",
         "PLUM_19": "#111113",
@@ -38,7 +41,6 @@
         "PRIMARY_300": "#d71921",
         "YELLOW_300": "#007bff",
         "BRAND_360": "#d71921",
-        "BRAND_500": "#d71921",
-        "ROLE_DEFAULT": "#d71921"
+        "BRAND_500": "#d71921"
     }
 }
