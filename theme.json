@@ -24,9 +24,7 @@
         "INTERACTIVE_ACTIVE": ["#d71921"],
         "BG_BRAND": ["#d71921"],
         "BRAND_360": ["#d71921"],
-        "BRAND_500": ["#d71921"],
-        
-
+        "BRAND_500": ["#d71921"]
     },
     "rawColors": {
         "PLUM_13": "#212123",
