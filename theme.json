@@ -21,7 +21,11 @@
         "TEXT_MUTED": ["#a9a9ab"],
         "TEXT_PRIMARY": ["#fcfcfc"],
         "TEXT_NORMAL": ["#fcfcfc"],
-        "INTERACTIVE_ACTIVE": ["#d71921"]
+        "INTERACTIVE_ACTIVE": ["#d71921"],
+        "BG_BRAND": ["#d71921"],
+        "BRAND_360": ["#d71921"],
+        "BRAND_500": ["#d71921"],
+        
 
     },
     "rawColors": {
