@@ -1,0 +1,34 @@
+{
+    "name": "Something",
+    "description": "A dark theme for Discord inspired by Nothing OS 3.0.\nOriginal theme by ignacio.\nRestored and maintained by Kitomanari.\nModified by afk-echo for Nothing UI.",
+    "authors": [
+        {
+            "name": "ignacio",
+            "id": "811581067940855888"
+        },
+        {
+            "name": "Kitomanari",
+            "id": "437154602626973697"
+        },
+        {
+            "name": "afk-echo",
+            "id": "560474840319000577"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "BACKGROUND_MENTIONED": ["#00000000"]
+    },
+    "rawColors": {
+        "PLUM_13": "#47464b",
+        "PLUM_15": "#47464b",
+        "PLUM_16": "#47464b",
+        "PLUM_17": "#302f34",
+        "PLUM_18": "#302f34",
+        "PLUM_19": "#47464b",
+        "PLUM_20": "#1b1b1d",
+        "PLUM_22": "#1b1b1d",
+        "PLUM_23": "#47464b",
+        "YELLOW_300": "#007bff"
+    }
+}
