@@ -22,12 +22,10 @@
         "TEXT_PRIMARY": ["#fcfcfc"],
         "TEXT_NORMAL": ["#fcfcfc"],
         "INTERACTIVE_ACTIVE": ["#d71921"],
-        "BG_BRAND": ["#d71921"],
-        "BRAND_360": ["#d71921"],
-        "BRAND_500": ["#d71921"]
+        "BG_BRAND": ["#d71921"]
     },
     "rawColors": {
-        "PLUM_11": "#3d0709",
+        "PLUM_11": "#8a1015",
         "PLUM_13": "#212123",
         "PLUM_15": "#212123",
         "PLUM_16": "#d71921",
@@ -38,6 +36,8 @@
         "PLUM_22": "#1b1b1d",
         "PLUM_23": "#212123",
         "YELLOW_300": "#007bff",
+        "BRAND_360": ["#d71921"],
+        "BRAND_500": ["#d71921"],
         "ROLE_DEFAULT": "#d71921"
     }
 }
